@@ -49,6 +49,16 @@ Para poder ver la demostración de nuestro proyecto se lo podrá ver en el sigui
 
 ![qr.png](qr.png)
 
+Dentro del proyecto encontramos la siguiente interfaz:
+
+![hg.png](hg.png)
+
+Aquí nosotros en donde dice "Drop Image Here -or- Click to Upload" podemos descargar y elegir la foto que deseemos de un perro o de un gato, y automáticamente la computadora generara una respuesta de que es lo que ha visto en la imagen proporcionada, aquí un ejemplo:
+
+![ejemplo.png](ejemplo.png)
+
+La interfaz que se ha hecho para mostrar este ejemplo se la escribió en Python y se encuentra en el archivo app.py, en donde utilizamos la librería [Gradio](https://gradio.app/)
+
 ### Herramientas utilizadas
 
 [Pytorch](https://pytorch.org/)
@@ -62,6 +72,8 @@ Para poder ver la demostración de nuestro proyecto se lo podrá ver en el sigui
 [Kaggle](https://www.kaggle.com/)
 
 [Git-lfs](https://git-lfs.github.com/)
+
+[Gradio](https://gradio.app/)
 
 ### Lenguajes utilizados
 

@@ -57,7 +57,7 @@ Aquí nosotros en donde dice "Drop Image Here -or- Click to Upload" podemos desc
 
 ![ejemplo.png](ejemplo.png)
 
-La interfaz que se ha hecho para mostrar este ejemplo se la escribió en Python y se encuentra en el archivo app.py, en donde utilizamos la librería [Gradio](https://gradio.app/)
+La interfaz que se ha hecho para mostrar este ejemplo se la escribió en Python y se encuentra en el archivo [app.py](app.py), en donde utilizamos la librería [Gradio](https://gradio.app/).
 
 ### Herramientas utilizadas
 

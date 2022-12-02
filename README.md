@@ -83,6 +83,16 @@ La interfaz que se ha hecho para mostrar este ejemplo se la escribió en Python 
 
 [Shell](https://www.shellscript.sh/)
 
+### Conclusión
+
+En conclusión, el cálculo, el álgebra lineal y la estadística son necesarios para el deep learning. En primer lugar, estas disciplinas matemáticas permiten el desarrollo de algoritmos que pueden aprender de los datos. En segundo lugar, proporcionan herramientas para analizar y comprender conjuntos de datos complejos. Por último, permiten la creación de modelos que pueden hacer predicciones basadas en nuevos datos.
+
+Sin el cálculo, el álgebra lineal y la estadística, sería difícil desarrollar algoritmos que pudieran aprender de los datos. Estas disciplinas matemáticas nos permiten crear modelos que pueden identificar patrones y relaciones en los conjuntos de datos. Esto es esencial para desarrollar predicciones precisas sobre eventos o tendencias futuras.
+
+De hecho, este problema sólo se resolvió utilizando redes neuronales, si hubiéramos tenido que programar toda esta lógica para que un ordenador identificara cómo es un perro y cómo es un gato, nos llevaría miles y miles de líneas de código, pero aquí en este ejemplo hemos demostrado lo poderoso que es el deep learning y lo fácil que nos resultó crear este tipo de aplicación utilizando frameworks de deep learning de última generación para crear este modelo.
+
+Además, sin estas herramientas sería difícil entender conjuntos de datos complejos. El cálculo, el álgebra lineal y la estadística permiten descomponer la información en fragmentos manejables para poder comprender mejor lo que ocurre bajo los fenómenos a nivel superficial. Esto es crucial para tomar decisiones sólidas basadas en pruebas y no en intuiciones o conjeturas.  En conclusión, el cálculo, el álgebra lineal y la estadística desempeñan un papel importante en el deep learning al proporcionar los medios para desarrollar algoritmos eficaces, analizar conjuntos de datos complejos y realizar predicciones precisas.
+
 ### Referencias
 [PyTorch Vision Resnet](https://pytorch.org/hub/pytorch_vision_resnet/)
 
